@@ -1,4 +1,5 @@
-# 🚀 DegenFyBundler - The Ultimate Solana Bundling Tool! 💰🔥
+# 🚀 DegenFy Bundler - Professional-grade Token Launching Suite
+# Advanced tools for serious traders. Launch, manage, and trade tokens with precision and security. 💰🔥
 
 ![DegenFyBundler](https://i.imgur.com/wu9UWuK.png)
 
@@ -30,6 +31,7 @@ No more slow transactions. No more wasted opportunities. Just pure, optimized pe
 3️⃣ **Execute trades with ease** - Simple UI for launching & selling.  
 4️⃣ **Raydium Mode** - Take full control of your market moves.  
 5️⃣ **Track your Jito Tip Floor** - Stay ahead of the competition.  
+6️⃣ **Generate metadata in a easy way** - [Metadata Creator Online](https://degenfy.com/generator). 
 
 ---
 
@@ -42,6 +44,8 @@ If you're serious about making money on Solana and Pump.fun, this is a must-have
 **💬 Telegram Chat** - https://t.me/+LqKfTGoiA3c4MjY8
 
 **✉️ Managers** - https://t.me/CryptoFighterSan - https://t.me/janquadrantvincent16
+
+**📖 How To Install - If you are using Mac or Linux you should install Node using Homebrew** - https://degenfy.com/docs
 
 
 
