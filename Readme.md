@@ -3,7 +3,7 @@
 
 ![DegenFyBundler](https://i.imgur.com/wu9UWuK.png)
 
-## 💎 What is DegenFy Bundler Bot?
+## 💎 What is DegenFy Bundler Bot Tool?
 DegenFyBundler is the ultimate weapon for Solana degens looking to dominate the game. Whether you're launching, selling, or sniping on Pump.fun and Raydium, this tool has got you covered. 💼💸
 
 ✅ **Generate multiple wallets in seconds**  
@@ -17,7 +17,7 @@ No more slow transactions. No more wasted opportunities. Just pure, optimized pe
 
 ---
 
-## 🎯 Why Use DegenFyBundler?
+## 🎯 Why Use DegenFy Bundler Bot Tool?
 💰 **Maximize your profits** - Speed is money, and DegenFyBundler ensures you never miss a trade.  
 ⚡ **Ultra-fast execution** - Designed for real-time market action.  
 🔒 **Fully secure** - Your wallets and transactions stay protected.  
