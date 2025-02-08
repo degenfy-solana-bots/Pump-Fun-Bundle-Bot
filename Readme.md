@@ -37,9 +37,11 @@ No more slow transactions. No more wasted opportunities. Just pure, optimized pe
 If you're serious about making money on Solana and Pump.fun, this is a must-have.  
 📩 **Contact below to purchase!**
 
-**Telegram Channel** - https://t.me/DegenfyBundleBots
-**Telegram Chat** - https://t.me/+LqKfTGoiA3c4MjY8
-**Managers** - https://t.me/CryptoFighterSan - https://t.me/janquadrantvincent16
+**🔈 Telegram Channel** - https://t.me/DegenfyBundleBots
+
+**💬 Telegram Chat** - https://t.me/+LqKfTGoiA3c4MjY8
+
+**✉️ Managers** - https://t.me/CryptoFighterSan - https://t.me/janquadrantvincent16
 
 
 
